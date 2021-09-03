@@ -59,3 +59,4 @@ if __name__ == '__main__':
 
 	st.subheader('Prediction')
 	st.write(iris.target_names[prediction])
+ 
