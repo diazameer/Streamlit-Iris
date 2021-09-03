@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run iris-app-diaz.py
+web: streamlit run iris-app-diaz.py
